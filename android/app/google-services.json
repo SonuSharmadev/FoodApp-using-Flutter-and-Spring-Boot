@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675706930901",
+    "project_id": "kababjees-519bf",
+    "storage_bucket": "kababjees-519bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675706930901:android:8a7c1db72915de1479845c",
+        "android_client_info": {
+          "package_name": "com.example.kababjees"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa9JNBgLBZ-PF7z76pvrkRtc-9y8oyC54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
